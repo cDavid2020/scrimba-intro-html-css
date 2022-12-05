@@ -1,0 +1,5 @@
+{
+  "breadcrumbs.enabled": true,
+  "files.autoSave": "onFocusChange",
+  "liveServer.settings.port": 5501
+}
