@@ -1,0 +1,19 @@
+        h1 {
+            color: orange;
+            font-size: 27px;
+        }
+
+        p {
+            font-size: 15px;
+            color: steelblue;
+        }
+
+        li {
+            font-size: 19px;
+            color: magenta;
+        }
+
+        a {
+            color: brown;
+            font-size: 20px;
+        }
